@@ -1,3 +1,4 @@
+![status](https://img.shields.io/badge/status-up-green) ![uptime](https://img.shields.io/badge/uptime-100%25-green) ![maintainer](https://img.shields.io/badge/maintainer-dhsoni-blue)
 # Provisioning AWS EKS Cluster using Terraform
 
 Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service provided by AWS. Through AWS EKS we can run Kubernetes without installing and operating a Kubernetes control plane or worker nodes. AWS EKS helps you provide highly available and secure clusters and automates key tasks such as patching, node provisioning, and updates.
