@@ -5,6 +5,9 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service p
 
 ![AWS EKS](https://github.com/DhruvinSoni30/Terraform_AWS_EKS/blob/main/images/2.webp)
 
+* For detailed explanation visit the below article!
+
+  https://medium.com/geekculture/deploy-an-aws-eks-cluster-using-terraform-965fe680f9d4
 
 # Cluster
 ![cluster.png](https://github.com/DhruvinSoni30/Terraform_AWS_EKS/blob/main/images/1.png)
